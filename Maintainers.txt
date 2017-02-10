@@ -17,6 +17,12 @@ HTC
 * 10 (pme) : Hildo Boerboom (firebird11)
 
 ========
+Letv
+========
+
+* LeEco Le2 (Le X526) : Soubhik Khan (SK82)
+
+========
 LG
 ========
 
