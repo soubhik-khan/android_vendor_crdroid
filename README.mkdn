@@ -30,7 +30,7 @@ Contributors & Maintainers
 * Felipe de Leon (bhb27)
 * Jeremy Vaughan (holiealumnus)
 * Gopinaidu Annam (gopinaidu77)
-* Soubhik Kahn (SK83)
+* Soubhik Khan (Soubhik_sk83)
 * Vijay Chandra (Vijay chandra)
 * R Schunk (rkschunk)
 * Giovanni Stocco (Stocco)
